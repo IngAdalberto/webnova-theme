@@ -12,7 +12,7 @@ if (! defined('ABSPATH')) {
 define('WEBNOVA_THEME_VERSION', '0.1.0');
 define('WEBNOVA_THEME_PATH', get_template_directory());
 define('WEBNOVA_THEME_URI', get_template_directory_uri());
-define('WEBNOVA_THEME_GITHUB_REPO', 'tu-usuario/tu-repositorio'); // Reemplaza con tu usuario/repo de GitHub
+define('WEBNOVA_THEME_GITHUB_REPO', 'IngAdalberto/webnova-theme'); // Reemplaza con tu usuario/repo de GitHub
 
 
 require_once WEBNOVA_THEME_PATH . '/inc/class-private-update-checker.php';
