@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Estado Sin Documentos
  * Slug: webnova/institutional-document-empty-state

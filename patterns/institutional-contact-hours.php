@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: Horarios de Atención Institucional
  * Slug: webnova/institutional-contact-hours

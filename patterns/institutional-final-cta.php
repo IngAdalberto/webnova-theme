@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - CTA final
  * Slug: webnova/institutional-final-cta

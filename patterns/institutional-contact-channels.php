@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: Canales de Contacto Institucional
  * Slug: webnova/institutional-contact-channels

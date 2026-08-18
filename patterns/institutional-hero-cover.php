@@ -12,16 +12,16 @@
     <div class="wp-block-columns alignwide">
         <!-- wp:column {"width":"60%","className":"webnova-institutional-hero__content"} -->
         <div class="wp-block-column webnova-institutional-hero__content" style="flex-basis:60%">
-            <!-- wp:paragraph {"className":"webnova-institutional-hero__eyebrow","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}},"textColor":"accent","fontSize":"sm"} -->
-            <p class="webnova-institutional-hero__eyebrow has-accent-color has-text-color has-sm-font-size" style="font-style:normal;font-weight:700;text-transform:uppercase"><?php esc_html_e( 'Trabajamos por el desarrollo de nuestra comunidad', 'webnova-starter-kit' ); ?></p>
+            <!-- wp:paragraph {"className":"webnova-institutional-hero__eyebrow","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"700"}},"fontSize":"sm"} -->
+            <p class="webnova-institutional-hero__eyebrow has-text-color has-sm-font-size" style="color:#EB472A;font-style:normal;font-weight:700;text-transform:uppercase"><?php esc_html_e( 'Trabajamos por el desarrollo de nuestra comunidad', 'webnova-starter-kit' ); ?></p>
             <!-- /wp:paragraph -->
 
-            <!-- wp:heading {"level":1,"className":"webnova-institutional-hero__title","textColor":"background"} -->
-            <h1 class="wp-block-heading webnova-institutional-hero__title has-background-color has-text-color"><?php echo wp_kses_post( __( 'Construimos <mark style="color:var(--wp--preset--color--accent);" class="has-inline-color has-accent-color">oportunidades</mark> que transforman vidas', 'webnova-starter-kit' ) ); ?></h1>
+            <!-- wp:heading {"level":1,"className":"webnova-institutional-hero__title"} -->
+            <h1 class="wp-block-heading webnova-institutional-hero__title has-text-color" style="color: #ffffff;"><?php echo wp_kses_post( __( 'Construimos <mark style="color:var(--wp--preset--color--accent);" class="has-inline-color has-accent-color">oportunidades</mark> que transforman vidas', 'webnova-starter-kit' ) ); ?></h1>
             <!-- /wp:heading -->
 
-            <!-- wp:paragraph {"className":"webnova-institutional-hero__description","fontSize":"lg","textColor":"background"} -->
-            <p class="webnova-institutional-hero__description has-background-color has-text-color has-lg-font-size"><?php esc_html_e( 'Desarrollamos programas educativos, sociales y comunitarios que fortalecen las capacidades de niños, jóvenes y familias.', 'webnova-starter-kit' ); ?></p>
+            <!-- wp:paragraph {"className":"webnova-institutional-hero__description","fontSize":"lg"} -->
+            <p class="webnova-institutional-hero__description has-text-color has-lg-font-size" style="color: #ffffff;"><?php esc_html_e( 'Desarrollamos programas educativos, sociales y comunitarios que fortalecen las capacidades de niños, jóvenes y familias.', 'webnova-starter-kit' ); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons {"className":"webnova-institutional-hero__actions"} -->

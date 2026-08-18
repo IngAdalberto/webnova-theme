@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Introducción de Proyectos
  * Slug: webnova/institutional-projects-intro

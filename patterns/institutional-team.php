@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Equipo
  * Slug: webnova/institutional-team

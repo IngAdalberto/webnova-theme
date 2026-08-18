@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Participación
  * Slug: webnova/institutional-participation

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Noticias recientes
  * Slug: webnova/institutional-latest-news

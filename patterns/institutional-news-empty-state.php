@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Estado sin noticias
  * Slug: webnova/institutional-news-empty-state

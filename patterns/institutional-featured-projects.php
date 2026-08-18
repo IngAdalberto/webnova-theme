@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Proyectos destacados
  * Slug: webnova/institutional-featured-projects

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Cuadrícula de Programas
  * Slug: webnova/institutional-programs-grid

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Cuadrícula de Noticias
  * Slug: webnova/institutional-news-grid

@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: Preguntas Frecuentes Contacto Institucional
  * Slug: webnova/institutional-contact-faq

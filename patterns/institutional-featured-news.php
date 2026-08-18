@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Noticia destacada
  * Slug: webnova/institutional-featured-news

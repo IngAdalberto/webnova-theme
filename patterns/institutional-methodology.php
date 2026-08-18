@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Forma de Trabajo
  * Slug: webnova/institutional-methodology

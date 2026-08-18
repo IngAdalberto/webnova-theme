@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Programas destacados
  * Slug: webnova/institutional-featured-programs

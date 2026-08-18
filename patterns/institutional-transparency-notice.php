@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Aviso de Transparencia
  * Slug: webnova/institutional-transparency-notice

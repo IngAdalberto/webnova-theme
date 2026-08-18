@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Estado sin proyectos
  * Slug: webnova/institutional-projects-empty-state

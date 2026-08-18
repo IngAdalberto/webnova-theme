@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Misión y Visión
  * Slug: webnova/institutional-mission-vision

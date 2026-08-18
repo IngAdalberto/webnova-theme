@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - CTA Transparencia
  * Slug: webnova/institutional-transparency-cta

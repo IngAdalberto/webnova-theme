@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /**
  * Title: WebNova Institucional - Listado de Proyectos
  * Slug: webnova/institutional-projects-grid
