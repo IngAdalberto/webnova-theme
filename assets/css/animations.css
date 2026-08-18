@@ -1,0 +1,65 @@
+/**
+ * WebNova Animations
+ * Lightweight animation system using CSS variables and transitions.
+ */
+
+:root {
+    --webnova-animation-duration: 0.8s;
+    --webnova-animation-timing: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Base setup for animated elements */
+.is-style-animate-fade-in,
+.is-style-animate-slide-up,
+.is-style-animate-slide-right,
+.is-style-animate-slide-left {
+    opacity: 0;
+    transition: opacity var(--webnova-animation-duration) var(--webnova-animation-timing), 
+                transform var(--webnova-animation-duration) var(--webnova-animation-timing);
+    will-change: opacity, transform;
+}
+
+/* Specific initial states */
+.is-style-animate-slide-up {
+    transform: translateY(40px);
+}
+
+.is-style-animate-slide-right {
+    transform: translateX(-40px);
+}
+
+.is-style-animate-slide-left {
+    transform: translateX(40px);
+}
+
+/* Target state (when .is-animated class is added via JS or reduced-motion is on) */
+.is-style-animate-fade-in.is-animated,
+.is-style-animate-slide-up.is-animated,
+.is-style-animate-slide-right.is-animated,
+.is-style-animate-slide-left.is-animated {
+    opacity: 1;
+    transform: translate(0, 0);
+}
+
+/* Reduce motion accessibility */
+@media (prefers-reduced-motion: reduce) {
+    .is-style-animate-fade-in,
+    .is-style-animate-slide-up,
+    .is-style-animate-slide-right,
+    .is-style-animate-slide-left {
+        opacity: 1;
+        transform: translate(0, 0);
+        transition: none !important;
+    }
+}
+
+/* --- Modificadores Opcionales (Clases CSS Adicionales) --- */
+
+/* Duración de la animación */
+.anim-fast { --webnova-animation-duration: 0.4s; }
+.anim-slow { --webnova-animation-duration: 1.5s; }
+
+/* Retraso de la animación (Delay) */
+.anim-delay-sm { transition-delay: 0.2s, 0.2s; }
+.anim-delay-md { transition-delay: 0.5s, 0.5s; }
+.anim-delay-lg { transition-delay: 0.8s, 0.8s; }
