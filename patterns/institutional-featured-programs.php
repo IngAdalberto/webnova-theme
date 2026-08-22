@@ -31,8 +31,8 @@
     </div>
     <!-- /wp:group -->
 
-    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|xl"}}}} -->
-    <div class="wp-block-columns alignwide" style="margin-top:var(--wp--preset--spacing--xl)">
+    <!-- wp:columns {"align":"wide","className":"webnova-premium-card","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"},"margin":{"top":"var:preset|spacing|xl"}}}} -->
+    <div class="wp-block-columns alignwide webnova-premium-card" style="margin-top:var(--wp--preset--spacing--xl)">
         <!-- wp:column {"className":"is-style-animate-slide-up","style":{"border":{"radius":"8px","width":"1px","style":"solid","color":"var:preset|color|border"}},"backgroundColor":"background"} -->
         <div class="wp-block-column is-style-animate-slide-up has-background-background-color has-background has-custom-border"  style="border-color:var(--wp--preset--color--border);border-width:1px;border-style:solid;border-radius:8px">
             <!-- wp:image {"url":"<?php echo esc_url( get_template_directory_uri() . '/assets/images/placeholder-client-meeting.jpg' ); ?>","aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"topRightRadius":"8px","topLeftRadius":"8px"}}} -->

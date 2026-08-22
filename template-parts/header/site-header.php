@@ -10,7 +10,7 @@ if (! defined('ABSPATH')) {
 }
 
 $is_sticky = (bool) get_theme_mod('webnova_header_sticky', false);
-$header_classes = trim('webnova-header' . ($is_sticky ? ' webnova-header--sticky' : ''));
+$header_classes = trim('webnova-header webnova-premium-header' . ($is_sticky ? ' webnova-header--sticky' : ''));
 ?>
 
 <a class="skip-link screen-reader-text" href="#wp--skip-link--target">

@@ -20,8 +20,8 @@
     </div>
     <!-- /wp:group -->
 
-    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}}}} -->
-    <div class="wp-block-columns alignwide">
+    <!-- wp:columns {"align":"wide","className":"webnova-premium-card","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}}}} -->
+    <div class="wp-block-columns alignwide webnova-premium-card">
         <!-- wp:column {"className":"is-style-animate-slide-up","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","right":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg","left":"var:preset|spacing|lg"}},"border":{"radius":"8px"}},"backgroundColor":"background"} -->
         <div class="wp-block-column is-style-animate-slide-up has-background-background-color has-background has-custom-border"  style="padding-top:var(--wp--preset--spacing--lg);padding-right:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg);padding-left:var(--wp--preset--spacing--lg);border-radius:8px">
             <!-- wp:group {"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
